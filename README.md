@@ -1,0 +1,1 @@
+# smartmontools-fw_orinted
